@@ -1,4 +1,5 @@
-**Objective**: A business report, a KPI report, a business performance evaluation report.
+## **Objective**: 
+A business report, a KPI report, a business performance evaluation report.
 
 **Technical Skills**: SQL, Stored Procedure, Automated reports, PowerBI, Banking domain knowledge.
 
