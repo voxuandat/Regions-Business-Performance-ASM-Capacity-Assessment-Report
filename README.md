@@ -2,7 +2,7 @@
 The Board of Directors (BOD) wants to know the business performance of the enterprise (finance company) and the network regions nationwide as well as evaluate the capacity of area sales manager (ASM).
 
 ### **Output**: 
-Online Demo by PowerBI: [link]([url](https://app.powerbi.com/view?r=eyJrIjoiMDljNmJkMzEtZjk4NS00ZDljLThjM2EtNTEyNWEzOTllMzI2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D))
+Online Demo by PowerBI: [link](https://app.powerbi.com/view?r=eyJrIjoiMDljNmJkMzEtZjk4NS00ZDljLThjM2EtNTEyNWEzOTllMzI2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 
 ### **Steps**:
 -	Built a detailed domain banking description.
